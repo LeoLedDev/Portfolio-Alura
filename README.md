@@ -1,6 +1,6 @@
 # Portafolio Personal
 
-Este es mi proyecto de portafolio personal, diseñado y desarrollado utilizando HTML y CSS. Este portafolio tiene como objetivo mostrar mis habilidades y proyectos como programador.
+Este es mi proyecto de portafolio personal, diseñado y desarrollado utilizando HTML y CSS. Este portafolio tiene como objetivo mostrar mis habilidades y proyectos como programador que fui aprendiendo gracias a Alura Latam.
 
 ## Características
 
@@ -13,6 +13,7 @@ Este es mi proyecto de portafolio personal, diseñado y desarrollado utilizando 
 
 - HTML5
 - CSS3
+- JavaScript
 
 
 ## Contribución
