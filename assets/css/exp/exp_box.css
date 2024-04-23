@@ -1,0 +1,65 @@
+.experiencie__box{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 1.5rem 0;
+}
+
+.experiencie__box:nth-child(3),
+.experiencie__box:nth-child(5){
+    flex-direction: row-reverse;
+}
+
+
+.experience__img{
+    width: 60%;
+}
+
+.experience__title{
+font-size: 1.5rem;
+}
+
+.experience__text{
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+.experience__info{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.experiencia__botao--repo, .experience__botao--demo{
+    padding: .8rem;
+    background-color: white;
+    border: 1px solid black ;
+}
+
+
+
+
+.experience__botao--demo:hover, .experiencia__botao--repo:hover{
+    
+    cursor: pointer;
+    border-bottom: 3px solid aquamarine;
+    transition: 1s;
+    
+   
+} 
+
+@media (max-width: 768px) {
+    .experiencie__box {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .experiencie__box:nth-child(3),
+    .experiencie__box:nth-child(5) {
+        flex-direction: column;
+    }
+
+    .experience__img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,10 @@
+.menu{
+    display: flex;
+    background-color: #e8d8ff;
+    justify-content: space-between;
+    padding: 1rem ;
+    
+}
+
+
+
